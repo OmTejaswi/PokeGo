@@ -13,7 +13,7 @@
   }
 
 .btn a {
-    background: aqua;
+    background: lightgreen;
     position:absolute;
     color: #fff;
     top: 80%;
@@ -25,19 +25,9 @@
     display:block;
     color: #fff;
 }
-.btn:hover {
-    background: #DC6C11;
+.btn a:hover {
+    background: aqua;
 }
-/* .beta {
-  text-indent: 18px;
-  position: absolute;
-  color: orange;
-  border: 3px solid orange;
-  border-radius: 40%;
-  width: 60px;
-  bottom: 15%;
-  left: 41%;
-} */
 img{
   position: absolute;
   left: 44%;

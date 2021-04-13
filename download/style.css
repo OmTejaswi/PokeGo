@@ -36,3 +36,15 @@ p {
     color: #888;
     padding: 15px;
 }
+.beta1 img{
+    position: absolute;
+    left: 58%;
+    top: 34%;
+    width: 3%;
+  }
+  .beta2 img{
+    position: absolute;
+    left: 58%;
+    top: 50.5%;
+    width: 3%;
+  }
