@@ -13,14 +13,13 @@
   }
 
 .btn a {
-    background: #F98909;
-    position: fixed;
+    background: aqua;
+    position:absolute;
     color: #fff;
     top: 80%;
     left: 20%;
-    width: 300px;
-    height: 250px;
     font-size: 25px;
+    padding: 20px 100px;
     text-align: center;
     height: auto;
     display:block;
@@ -28,4 +27,20 @@
 }
 .btn:hover {
     background: #DC6C11;
+}
+/* .beta {
+  text-indent: 18px;
+  position: absolute;
+  color: orange;
+  border: 3px solid orange;
+  border-radius: 40%;
+  width: 60px;
+  bottom: 15%;
+  left: 41%;
+} */
+img{
+  position: absolute;
+  left: 44%;
+  bottom: 13%;
+  width: 3%;
 }
